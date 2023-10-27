@@ -28,7 +28,7 @@ public class EVA2_16_FACTORIAL {
             factorial= factorial*i;
         }
         System.out.println(" ");
-        System.out.println("Factorial de "+ num+  "es = "+ factorial);
+        System.out.println("Factorial de "+ num+  " es = "+ factorial);
         
         
         
